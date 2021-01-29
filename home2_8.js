@@ -10,3 +10,4 @@ let val = +prompt('Введите число');
         }
         return val;
 }
+ 
